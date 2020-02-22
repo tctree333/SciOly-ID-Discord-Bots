@@ -28,7 +28,7 @@ Once you have all of this set up, it's now time to run your bot.
 10. Install any necessary packages with `pip install -r requirements.txt`. You may also want to setup a python virtual environment to avoid package conflicts before installing packages.
 11. You are now ready to run the application! Setup the environment with `source setup.sh`. Start the bot with `python3 main.py`.
 
-**Congrats! You just created your own ID Discord bot.** Add your bot to the Discord server of your choice using the invite link generated in step 6.
+**Congrats! You just created your own ID Discord bot.** Add your bot to the Discord server of your choice using the invite link generated in step 5.
 
 If there are any issues or you have any questions, let us know in the Bird-ID [Discord support server.](https://discord.gg/xDqYddK)
 
