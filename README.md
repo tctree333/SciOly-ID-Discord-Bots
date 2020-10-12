@@ -1,6 +1,8 @@
 # SciOly-ID-Discord-Bots
 A template for creating Discord Bots to study for Science Olympiad ID events, using [sciolyid](https://github.com/tctree333/SciOly-ID).
 
+# Please see the [sciolyid repository](https://github.com/tctree333/SciOly-ID) for the most up-to-date information on creating a Discord ID bot.
+
 ## Usage
 To setup your own bot, follow these steps:
 
